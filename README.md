@@ -1,5 +1,3 @@
-### Theo Coronges
-
 Applied Mathematics @ IE University.
 
 - **[opportunitylab](https://github.com/tcoronges/opportunitylab)** — Research & execution engine for short-lived prediction-market inefficiencies.
